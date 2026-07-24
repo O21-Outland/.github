@@ -23,7 +23,7 @@ Ideally you can save us both a lot of time if you:
 Odds are that if it's a conflict, only you will be able to find it, I do not have the time to test every mod in everyones mod list that has an issue to find it, and for all we know it could be an outdated version of that mod that's causing the problem and would be impossible for me to find. The best way to deal with this is a binary search, which is loading up with half your mods enabled, if it's still breaking then the conflict is still loaded, and you just repeat until you narrow it down, at most this should only take a handful of tries. It's best to use an external mod manager like RimPy or RimSort so you can save/load your original list easily.
 
 ### Got a fix yourself?
-In the less than yearly occurrence that you have a fix you want to contribute you are absolutely welcome to do so with a pull request.
+In the less than yearly occurrence that you have a fix you want to contribute you are absolutely welcome to do so with a pull request. AI contributions are not welcome.
 
 ### Looking for other Outpost 21 mods?
 Check the main [Outpost 21 GitHub here!](https://github.com/Outpost-21)
